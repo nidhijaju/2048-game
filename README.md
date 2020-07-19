@@ -34,4 +34,4 @@ If the input character is valid but the move does not cause a merge due to the p
 
 If the input character is valid and generates a merge the program will print the merged grid with a '2' added in a random position and take inputs from the user.
 
-Finally if no moves are allowed or the game has completed with no further merges, the game will print "GAME OVER" and stop (check by entering game_over.txt at beginning of game).
+Finally if no moves are allowed or the game has completed with no further merges, the game will print "GAME OVER" and stop.
